@@ -7,7 +7,7 @@
         SMS
     }
 
-    internal class NotificationManager
+    public class NotificationManager
     {
         public void Notify(NotificationType type, string message)
         {
