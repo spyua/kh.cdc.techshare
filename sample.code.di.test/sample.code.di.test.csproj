@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\sample.code.di\sample.code.di.csproj" />
+    <ProjectReference Include="..\sample.code.service\sample.code.service.csproj" />
   </ItemGroup>
 
   <ItemGroup>
