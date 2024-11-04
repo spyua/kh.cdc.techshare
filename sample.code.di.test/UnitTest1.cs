@@ -1,7 +1,7 @@
 using Moq;
-using sample.code.di.InterfaceSample;
+using sample.code.service.InterfaceSample;
 
-namespace sample.code.di.test
+namespace sample.code.service.test
 {
     public class Tests
     {

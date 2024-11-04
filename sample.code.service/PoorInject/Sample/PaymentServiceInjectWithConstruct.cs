@@ -1,4 +1,4 @@
-﻿namespace sample.code.di.PoorInject.Sample
+﻿namespace sample.code.service.PoorInject.Sample
 {
     public class PaymentServiceInjectWithConstruct
     {
