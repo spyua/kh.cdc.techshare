@@ -10,6 +10,8 @@ var serviceCollection = new ServiceCollection();
 // 設定生命週期（改成 AddSingleton 或 AddScoped 來比較）
 serviceCollection.AddScoped<CounterService>();
 
+//  Factory Pattern（工廠模式） 的一種應用。
+//  記憶體中建立一個「註冊規則」的記錄
 var serviceProvider = serviceCollection.BuildServiceProvider();
 
 // 模擬多個請求
